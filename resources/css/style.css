@@ -21,7 +21,7 @@ h3 {
     color: aquamarine;
 }
 
-footer {
+footer p {
     text-align: right;
     color: gray;
 }
@@ -29,4 +29,8 @@ footer {
 p {
     font-size: 21px;
     color: gray;
+}
+
+a {
+    color: aquamarine;
 }
